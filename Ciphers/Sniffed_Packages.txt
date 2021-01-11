@@ -1,0 +1,2 @@
+192.168.1.8: 			 e
+192.168.1.9: 			 ja sam bogdan kondic
